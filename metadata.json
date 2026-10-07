@@ -1,0 +1,6 @@
+{
+  "name": "ONE STI",
+  "description": "ONE STI College student portal for academic schedules, grades, digital ID, attendance logs, tuition ledger, and campus updates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
